@@ -36,6 +36,7 @@
 12. **vite.config.js:**  
     This file contains configuration settings for Vite, such as plugins and build options.
 
+______________________________________________________________________________________________________________________________________________________________________________________________
 
 # React + Vite  #<= It is the default text from the README.md file😊
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
