@@ -1,5 +1,5 @@
 # Meaning of each folders and files:
-1.**node_modules:**  
+1. **node_modules:**  
    The `node_modules` folder contains all the packages and libraries installed for the project.  
    These packages are required for the project to run correctly, including starting the development server, building the app, and using libraries like React.
 
