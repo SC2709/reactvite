@@ -1,3 +1,4 @@
+# Created React project using Vite.
 # Meaning of each folders and files:
 1. **node_modules:**  
    The `node_modules` folder contains all the packages and libraries installed for the project.  
